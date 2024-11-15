@@ -17,7 +17,7 @@ from ADOPT import ADOPT, ADOPTw
 from Amsgrad import Amsgrad
 
 class OptimizerTest:
-    def __init__(self):
+    def __init__(self, initial):
         # self.true_optimal_loss =
         # self.true_optimal_point =
         # self.loss_margin =
